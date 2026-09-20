@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b7d57cb45487be0e2dc43794",
+  "owner": "vwd3ggpu",
+  "repo": "page-2387691c4eafc8499ccb33f4",
+  "title": "魅影极速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2387691c4eafc8499ccb33f4",
+      "a": "魅影极速",
+      "b": "2027官方最新地址导航",
+      "entity": "魅影极速",
+      "brand": "魅影极速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3756e80e1759e6712d7d59582a17758862310e1017218aed5915ac3575720177",
+      "content": {
+        "primary_entity": "魅影极速",
+        "keyword1": "魅影极速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选合适的客户端，从桌面到移动端各有对应方案。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据日常设备数量与流量预期挑选套餐，即可开始配置魅影极速订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻加速",
+          "AI_DESCRIPTION": "，一款面向海外网络访问场景的加速服务，提供基础版、旗舰版与团队版三档套餐，覆盖从单人到多设备团队的不同用量需求。基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并带 IPLC 专线游戏加速优化，团队版每月 1000GB、支持 20 台设备，可满足企业定制路由。按年付均有优惠，适合长期稳定使用。",
+          "AI_FEATURES_INTRO": "从套餐用量到设备支持，三个角度快速了解魅影极速。",
+          "AI_FEATURES_TITLE": "魅影极速特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月或按年灵活付费。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台到 20 台设备同时在线，按实际设备数量匹配对应套餐。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "多档流量套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选择",
+          "AI_FEATURE_TITLE_3": "线路优化选项",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成部署。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "魅影极速提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备支持，按年付更实惠，适合个人、家庭及小团队使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版 15 元每月，年付 150 元",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与价格，按实际需求挑选。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，从基础版、旗舰版、团队版中选定适合的一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路特性是否匹配日常使用场景。",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档，导入订阅地址并完成连接配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "魅影极速套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合日常浏览和轻度流媒体使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，提供 IPLC 专线游戏加速和全节点流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_4": "支持月付和年付两种方式，年付相比月付累计更划算，可按使用周期灵活选择。",
+          "AI_FAQ_ANSWER_5": "订阅导入后，在对应客户端中选择节点并连接即可使用，具体步骤可参考客户端配置文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版套餐包含什么？",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版有什么区别？",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些场景？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "订阅配置后怎么使用？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xgnqc.cn",
+    "host": "xgnqc.cn"
+  },
+  "file_hashes": {
+    "index.html": "d093edb6aa7348483858342c96d92d51577f144b8ff74c525cc549ab0b6877e2",
+    "sitemap.xml": "0c039e356565dfbef0dc88075a140b2d04c70e1b4b78a7165f55dfefc57efb9e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0003084cb60163cddf0a0944b6601f95fd04baef6a44f60d86afe1ad0538e84a",
+    "robots.txt": "068b821b6d2445119adf5ba51d830ecc5aa3a00e7def2da6b8ad9a7cccd72b92",
+    "4f7b6ac52a8d4decdaed23fe2634369e.txt": "049d1ca27ee0cbe958b822390d8d4bff84c56b27b0aad44f726797f03c294705"
+  },
+  "revision": "4034a16c274d937afe788537a3bcb8420ded293c558a2a399785e8dc9a78e730"
+}
